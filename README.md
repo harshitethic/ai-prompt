@@ -50,3 +50,6 @@
 <p>Copyright © 2023 HarshitEthic. All rights reserved.</p>
 
 <p>You are free to use and modify the prompts provided by AI-Prompt, as long as you give proper credit to the project and include a reference to the original source. Please see the LICENSE file for more details.</p>
+
+
+<h1> PROMPTS </h1>
